@@ -1,0 +1,23 @@
+_repo: Sto-jisker-ethickych_68828
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Batěk, Alexandr
+    gutenberg_agent_id: '54964'
+    url: http://www.gutenberg.org/2009/agents/54964
+description: ''
+gutenberg_issued: '2022-08-24'
+identifiers:
+  gutenberg: '68828'
+language: cs
+pgterms:marc905: 20220104093531batk
+pgterms:marc906: '1919'
+pgterms:marc907: CZE
+publication_note: CZE :Knihtiskárna k. mašína na Kladně,1919.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sto jisker ethických
+url: http://www.gutenberg.org/ebooks/68828
